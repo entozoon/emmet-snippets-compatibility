@@ -1,15 +1,16 @@
 {
-  "name": "emmet-snippets-compatibility",
-  "version": "1.0.6",
+  "name": "emmet-snippets-compatibility-but-less-extreme",
+  "version": "1.0.0",
   "description": "Gives Atom autocomplete-snippets primary tab function over emmet. Adds emmet php compatibility",
   "keywords": [
     "emmet",
     "peterjohnhunt",
+    "entozoon",
     "compatibility",
     "snippets",
     "php"
   ],
-  "repository": "https://github.com/peterjohnhunt/emmet-snippets-compatibility",
+  "repository": "https://github.com/entozoon/emmet-snippets-compatibility-but-less-extreme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -8,7 +8,8 @@ An autocomplete-snippets + emmet compatibility package
 * Enables snippets in PHP files.
 
 ## Installation
-* This package can be installed via Atom's package manager
+* This package can be installed via Atom's package manager, or:
+	apm install emmet-snippets-compatibility-but-less-extreme
 
 ## Upcoming Features
 * Settings to toggle specific keymap overrides
